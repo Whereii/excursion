@@ -1,9 +1,17 @@
-#title {
+.mainText {
     font-family: Verdana;
     font-size: 50px;
     color:white;
     text-align: center;
     font-weight: normal;
+}
+
+#midText {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
 }
 
 body {
@@ -18,4 +26,10 @@ h2 {
     text-align: center;
     text-decoration: underline;
     font-weight: normal;
+}
+
+p {
+    font-family: Verdana;
+    color: grey;
+    font-size: 21px;
 }
